@@ -1,0 +1,29 @@
+.conteiners {
+    margin-top: 14%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.conteiners h1,
+h2,
+p {
+    margin-bottom: 7px;
+}
+
+.conteiners h1 {
+    font-size: 100px;
+}
+
+
+
+.Erro {
+    padding: 3px 12px;
+    background-color: rgba(26, 145, 129, 0.705);
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    border: 1px solid rgb(0, 0, 0);
+}
